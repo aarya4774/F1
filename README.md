@@ -35,7 +35,7 @@ This analysis sought to answer several key questions about the history of Formul
 
 4. What is the geographical distribution of drivers throughout F1 history?
 <p align="center">
-<img src="images/driver_nationalities.png" alt="Bar chart of the top 15 nationalities of F1 drivers" width="80%">
+<img src="images/nationality_counts.png" alt="Bar chart of the top 15 nationalities of F1 drivers" width="80%">
 </p>
 
 How to Run This Project
